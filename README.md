@@ -1,5 +1,8 @@
 # wpp_bus_api_messenger
-Repositório de estudo sobre API da Meta 
+Repositório de estudo sobre API da Meta
+
+## Executar
+>```python main.py```
 
 ## Passo a passo de configuração
 - **Token de acesso**: fornecido pela conta de desenvolvedor da meta.
